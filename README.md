@@ -2,6 +2,10 @@
 
 This is a JavaScript project that implements an interactive rating component for collecting user feedback. 
 
+## Preview
+![Solution](project_ss.png)
+
+
 ## How to Use
 
 1. Clone the repository to your local machine or download the source code.
@@ -23,3 +27,9 @@ Or just [click on this link](https://kgogina.github.io/interactive-rating-compon
 - `index.html`: The main HTML file that contains the rating component and thank you message.
 - `css/style.css`: The CSS file that styles the rating component and thank you message.
 - `js/script.js`: The JavaScript file that handles the rating selection and submission.
+
+## Acknowledgements
+
+Special thanks to [Frontend Mentor](https://www.frontendmentor.io) for providing the task/project that served as the basis for this code.
+
+
