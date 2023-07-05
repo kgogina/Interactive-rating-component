@@ -10,6 +10,8 @@ This is a JavaScript project that implements an interactive rating component for
 4. Click the "Submit" button to submit your rating.
 5. The page will display a thank you message along with the rating you selected.
 
+Or just [click on this link](https://kgogina.github.io/interactive-rating-component/)
+
 ## Technologies Used
 
 - HTML
